@@ -1,0 +1,12 @@
+# .idea .vscode .readmes  폴더제외
+.idea/
+.vscode/
+.readmes/
+templates/
+
+# 파일 제외
+.dockerignore
+deploy.bat
+test_content.sh
+imsi.txt
+Dockerfile.back
